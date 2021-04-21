@@ -1,0 +1,19 @@
+{
+  "name": "Workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "convert-array-to-csv": "^2.0.0",
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^8.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
